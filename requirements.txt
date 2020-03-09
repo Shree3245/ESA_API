@@ -155,7 +155,7 @@ python-for-android==2019.10.6
 python-Levenshtein==0.12.0
 pytoml==0.1.21
 pytz==2019.2
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==3.13
 Quandl==3.4.8
 ray==0.8.0
