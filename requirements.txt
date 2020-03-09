@@ -114,7 +114,7 @@ parso==0.5.1
 pep517==0.6.0
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==6.1.0
+Pillow==6.2.0
 Pint==0.10.1
 plac==0.9.6
 playsound==1.2.2
